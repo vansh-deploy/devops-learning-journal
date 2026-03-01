@@ -5,8 +5,7 @@
 
 **Started:** March 1, 2026  
 **Target Role:** Cloud / DevOps Engineer  
-**Target Salary:** ₹50,000 – ₹60,000/month  
-**Background:** Final-year BCA student | 0 internship experience | Delhi  
+**Background:** Final-year BCA student 
 **Current Phase:** 🔄 Month 1 — Linux Fundamentals  
 
 ---
