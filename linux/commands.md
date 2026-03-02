@@ -25,3 +25,5 @@ Tells me the full path to the nginx binary: /usr/sbin/nginx
 ```
 
 
+## Day 2 — File Permissions & Users (March 2, 2026)
+
